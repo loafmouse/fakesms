@@ -19,7 +19,7 @@ This is my simple code to send sms with professional number in any country , so 
 # In progress
 
 *-> Adding new sites soon*\
-*-> Temux script coming soon | btwn You can use this script too , if curl is already installed :wink:*\
+*-> Temux script coming soon | btwn You can use this script too , if curl is already installed :wink:*
 
 # Thanks
 
