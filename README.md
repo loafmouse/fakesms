@@ -18,9 +18,9 @@ This is my simple code to send sms with professional number in any country , so 
 
 # In progress
 
-*-> Adding new sites*\
-*-> Temux script coming soon*\
+*-> Adding new sites soon*\
+*-> Temux script coming soon | btwn You can use this script too , if curl is already installed :wink:*\
 
 # Thanks
 
-> Feel free to open a issue or help me to correct my code ...
+> Feel free to open a issue or help me to correct my code ... | Made with :heart: by MrOdball
